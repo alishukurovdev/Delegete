@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\bin\Debug\net6.0\DelegateActionFunctionPredicate.exe
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\bin\Debug\net6.0\DelegateActionFunctionPredicate.deps.json
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\bin\Debug\net6.0\DelegateActionFunctionPredicate.runtimeconfig.json
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\bin\Debug\net6.0\DelegateActionFunctionPredicate.dll
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\bin\Debug\net6.0\DelegateActionFunctionPredicate.pdb
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\obj\Debug\net6.0\DelegateActionFunctionPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\obj\Debug\net6.0\DelegateActionFunctionPredicate.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\obj\Debug\net6.0\DelegateActionFunctionPredicate.AssemblyInfo.cs
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\obj\Debug\net6.0\DelegateActionFunctionPredicate.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\obj\Debug\net6.0\DelegateActionFunctionPredicate.dll
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\obj\Debug\net6.0\refint\DelegateActionFunctionPredicate.dll
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\obj\Debug\net6.0\DelegateActionFunctionPredicate.pdb
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\obj\Debug\net6.0\DelegateActionFunctionPredicate.genruntimeconfig.cache
+C:\Users\hp\source\repos\DelegateActionFunctionPredicate\obj\Debug\net6.0\ref\DelegateActionFunctionPredicate.dll

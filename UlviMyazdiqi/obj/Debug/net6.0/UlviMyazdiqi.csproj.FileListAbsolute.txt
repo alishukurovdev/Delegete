@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\UlviMyazdiqi\bin\Debug\net6.0\UlviMyazdiqi.exe
+C:\Users\hp\source\repos\UlviMyazdiqi\bin\Debug\net6.0\UlviMyazdiqi.deps.json
+C:\Users\hp\source\repos\UlviMyazdiqi\bin\Debug\net6.0\UlviMyazdiqi.runtimeconfig.json
+C:\Users\hp\source\repos\UlviMyazdiqi\bin\Debug\net6.0\UlviMyazdiqi.dll
+C:\Users\hp\source\repos\UlviMyazdiqi\bin\Debug\net6.0\UlviMyazdiqi.pdb
+C:\Users\hp\source\repos\UlviMyazdiqi\obj\Debug\net6.0\UlviMyazdiqi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\UlviMyazdiqi\obj\Debug\net6.0\UlviMyazdiqi.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UlviMyazdiqi\obj\Debug\net6.0\UlviMyazdiqi.AssemblyInfo.cs
+C:\Users\hp\source\repos\UlviMyazdiqi\obj\Debug\net6.0\UlviMyazdiqi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UlviMyazdiqi\obj\Debug\net6.0\UlviMyazdiqi.dll
+C:\Users\hp\source\repos\UlviMyazdiqi\obj\Debug\net6.0\refint\UlviMyazdiqi.dll
+C:\Users\hp\source\repos\UlviMyazdiqi\obj\Debug\net6.0\UlviMyazdiqi.pdb
+C:\Users\hp\source\repos\UlviMyazdiqi\obj\Debug\net6.0\UlviMyazdiqi.genruntimeconfig.cache
+C:\Users\hp\source\repos\UlviMyazdiqi\obj\Debug\net6.0\ref\UlviMyazdiqi.dll
